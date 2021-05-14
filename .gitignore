@@ -1,7 +1,7 @@
 
 #project-specific
 Dados_Banco_de_Dados/
-
+Dados_site/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
