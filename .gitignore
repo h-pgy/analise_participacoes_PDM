@@ -3,6 +3,7 @@
 Dados_gerados/
 Dados_originais/
 config.py
+orig_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
